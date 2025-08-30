@@ -2,6 +2,8 @@
 
 This repository contains a detailed, step-by-step guide for calculating IPv4 subnets, along with a brief explanation of what subnetting is and why it is a fundamental skill in computer networking.
 
+---
+
 ## What is Subnetting?
 
 Subnetting is the process of taking a large network and dividing it into smaller, more manageable sub-networks, or "subnets."
@@ -18,15 +20,12 @@ Dividing a network is crucial for several reasons:
 
 - **Organization**: It allows for better organization of hosts. You can group devices by department, location, or function, making the network easier to manage and troubleshoot.
 
-## The Method & Tools
+## Method, Proof & Tools
 
-- ### The "Magic Number" Method
-  For a detailed, step-by-step guide on how to perform these calculations quickly, see the file: `[subnetting_cheatsheet.md](subnetting_cheatsheet.md)`.
+- **The "Magic Number" Method**: For a detailed, step-by-step guide, see the file: **[`subnetting_cheatsheet.md`](./subnetting_cheatsheet.md)**.
 
-- ### Practice Problems
-  To test your skills, you can generate unlimited examples at [subnetipv4.com](https://subnetipv4.com).
+- **Proof of Mastery**: This repository includes a log of 30 solved problems with timings to demonstrate speed and accuracy. **[View Timed Problems](./examples/timed_problems.md)**.
 
-- ### Subnet Calculator
-  For quick verification, use an online tool such as an IP Subnet Calculator (search for "IP Subnet Calculator" or use your preferred tool).
+- **Practice Problems**: To test your skills, you can generate unlimited examples at [subnetipv4.com](https://subnetipv4.com/).
 
-
+- **Subnet Calculator**: For quick verification, use an online tool like the [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html).
